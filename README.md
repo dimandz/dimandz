@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**dimandz/dimandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Mossab, a motivated developer passionate about building full-stack applications and learning modern technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** Java, TypeScript, SQL  
+- **Backend:** Spring Boot  
+- **Frontend:** Angular  
+- **Database:** PostgreSQL  
+- **Other Tools:** Git, Docker, Redis (learning)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Spring Boot (Security, REST APIs)  
+- Angular best practices  
+- Database optimization with PostgreSQL  
+
+---
+
+## 🎯 Goals  
+- Grow into a professional full-stack developer  
+- Build meaningful applications with clean architecture  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [github.com/dimandz](https://github.com/dimandz)  
+
+---
+✨ Always learning, always building.  
