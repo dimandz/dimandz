@@ -16,7 +16,8 @@ I’m Mossab, a motivated developer passionate about building full-stack applica
 ## 🌱 Currently Learning  
 - Advanced Spring Boot (Security, REST APIs)  
 - Angular best practices  
-- Database optimization with PostgreSQL  
+- Database optimization with PostgreSQL
+- Odoo ERP
 
 ---
 
